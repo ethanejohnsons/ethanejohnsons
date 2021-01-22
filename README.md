@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanejohnsons&label=Profile%20views&color=0e75b6&style=flat" alt="ethanejohnsons" /> </p>
 
-- 🔭 I’m currently working on **Minecraft Mods for [Lazurite](https://github.com/lazuritemc)**
+- 🔭 I’m currently working on: **Minecraft Mods for [Lazurite](https://github.com/lazuritemc)**
 
-- 🌱 I’m currently learning **React and Node JS**
+- 🌱 I’m currently learning: **React and Node JS**
 
-- 📫 How to reach me **ethan@ejohnsons.com**
+- 📫 I can be reached at: **ethan@ejohnsons.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ethan-michael-johnson/](https://www.linkedin.com/in/ethan-michael-johnson/)
+- 📄 Read about my experience: **[https://www.linkedin.com/in/ethan-michael-johnson/](https://www.linkedin.com/in/ethan-michael-johnson/)**
 
 - ⚡ Fun fact **I like to fly FPV drones in my free time**
 
