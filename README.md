@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanejohnsons&label=Profile%20views&color=0e75b6&style=flat" alt="ethanejohnsons" /> </p>
 
-- 🔭 I’m currently working on Minecraft Mods for [Lazurite](https://github.com/lazuritemc)
+- 🔭 I’m currently working on **Minecraft Mods for [Lazurite](https://github.com/lazuritemc)**
 
 - 🌱 I’m currently learning **React and Node JS**
 
