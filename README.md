@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center">Hello there 👋</h1>
 
 - 🔭 I’m currently working on: **Minecraft Mods for [Lazurite](https://github.com/lazuritemc)**
 
