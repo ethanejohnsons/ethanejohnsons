@@ -8,5 +8,7 @@
 
 - 🎯 Check out my site [here](http://ethanj.info) or email me at ethan@ejohnsons.com
 
+- 🤖 Click [here](https://motd.bluevista.dev) for an AI-generated message of the day
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/EthanJohnson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EthanJohnson" /></a></p><br><br>
