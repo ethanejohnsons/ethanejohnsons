@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Minecraft Mods for Lazurite](https://github.com/LazuriteMC)
 
-- 🌱 I’m currently learning **Node JS + React**
+- 🌱 I’m currently learning **Kotlin**
 
 - ⚡ Fun fact: **I like to fly FPV racing drones in my free time**
 
