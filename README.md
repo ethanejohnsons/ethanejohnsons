@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Minecraft Mods for Lazurite](https://github.com/LazuriteMC)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, Rust, Vue, and Nuxt**
 
 - ⚡ Fun fact: **I like to fly FPV racing drones in my free time**
 
