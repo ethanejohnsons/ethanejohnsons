@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Rust**
 
-- 🎯 Check out my site [here](http://ethanj.info) or email me at ethan@ejohnsons.com
+- 🎯 Check out my portfolio site [here](http://ethanj.info)
 
 - 🤖 Click [here](https://motd.bluevista.dev) for an AI-generated message of the day
 
