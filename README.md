@@ -2,6 +2,6 @@
 
 # Ethan Johnson
 
-Good morning! My name is Ethan, welcome to my github profile!
+Good morning!
 
 **[Portfolio → ethanj.info](https://ethanj.info)**
