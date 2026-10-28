@@ -1,7 +1,7 @@
-[![Ethan Johnson’s portfolio — retro computer desk](banner.png)](https://ethanj.info)
+[![Ethan Johnson’s portfolio — retro computer desk](banner.png)](https://ethan.software)
 
 # Ethan Johnson
 
 Good morning!
 
-**[Portfolio → ethanj.info](https://ethanj.info)**
+**[Portfolio → ethan.software](https://ethan.software)**
